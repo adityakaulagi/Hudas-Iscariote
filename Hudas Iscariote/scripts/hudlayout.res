@@ -1519,16 +1519,16 @@
     
     "HudAchievementTracker"
     {
-        "ControlName"   "EditablePanel"
-        "fieldName"     "HudAchievementTracker"
-        "xpos"          "5"
-        "NormalY"       "10"
-        "EngineerY"     "170"
-        "zpos"          "2"
-        "wide"          "200"
-        "tall"          "280"
-        "visible"       "1"
-        "enabled"       "1" 
+        "ControlName"           "EditablePanel"
+        "fieldName"             "HudAchievementTracker"
+        "xpos"                  "0"
+        "NormalY"               "0"
+        "EngineerY"             "0"
+        "wide"                  "f0"
+        "tall"                  "480"
+        "visible"               "1"
+        "enabled"               "1"    
+        "zpos"                  "1"
     }
     
     HudTrainingInfoMsg
